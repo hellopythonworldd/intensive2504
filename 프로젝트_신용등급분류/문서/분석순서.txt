@@ -16,8 +16,6 @@
 문제2) 클래스별로 데이터 수가 너무 다름 (inbalanced dataset) - 현업과도 유사함
 - undersampling과 oversampling의 비율을 적절하게 하기
 
-
-
 데이터 전처리를 조금 더 해보기로 함
 이상치 제거, 구간변수 만들기 
 
