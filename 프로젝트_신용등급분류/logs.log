@@ -8779,3 +8779,11 @@ dtype: int64}],
 2025-10-31 11:24:00,310:INFO:Scoring test/hold-out set
 2025-10-31 11:24:00,644:INFO:Visual Rendered Successfully
 2025-10-31 11:24:00,734:INFO:plot_model() successfully completed......................................
+2025-11-04 16:31:11,192:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-11-04 16:31:11,192:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-11-04 16:31:11,192:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-11-04 16:31:11,192:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
